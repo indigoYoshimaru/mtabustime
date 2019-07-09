@@ -1,0 +1,17 @@
+target
+map matching: tạo ra 1 cái route cho bus --> stopid
+dùng stopid của mta bus NY để check lại
+
+data timetable
+1: long 
+2: lat
+3: timestamp : 2 cột - arrival + departure
+4: routeid
+5: stopid
+6: tripid
+7: vehicleid
+8: date
+
+this week : 
++ tạo db
++ clustering --> model
